@@ -1,0 +1,9 @@
+.SearchBox {
+  margin-bottom: 15px;
+}
+
+.searchInput {
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}

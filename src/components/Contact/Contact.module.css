@@ -1,0 +1,28 @@
+.contactWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.contactInfo {
+  display: inline-flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.deleteBtn {
+  fill: red;
+}
